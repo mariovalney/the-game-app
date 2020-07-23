@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "The Game",
+    "version": "1.0.0",
+    "slug": "the-game",
+    "icon": "./source/assets/images/icon.png",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./source/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "./source/assets/**/*"
+    ],
+    "android": {
+      "package": "com.mariovalney.thegameapp",
+      "versionCode": 1
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./source/assets/images/favicon.png",
+      "themeColor": "#FFFFFF"
+    }
+  }
+}

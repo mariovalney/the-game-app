@@ -1,0 +1,20 @@
+{
+    "title": "O Jogo",
+    "share": {
+        "button": "Compartilhar",
+        "message": "Perdi! Conheça O Jogo: %{link}"
+    },
+    "main": {
+        "you_lose": "Você Perdeu.",
+        "share": "Conte aos amigos",
+        "without_lose": "Você estava há %{time} sem perder."
+    },
+    "unsupported_web": {
+        "title": "Melhor experiência em dispositivos móveis!",
+        "message": "Baixe nosso App"
+    },
+    "footer": {
+        "copyright_before_icon": "Criado com",
+        "copyright_after_icon": "por Mário Valney"
+    }
+}

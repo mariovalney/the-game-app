@@ -1,0 +1,20 @@
+{
+    "title": "The Game",
+    "share": {
+        "button": "Share",
+        "message": "I lose The Game. Check: %{link}"
+    },
+    "main": {
+        "you_lose": "You Lose.",
+        "share": "Tell your friends",
+        "without_lose": "You are %{time} without lose."
+    },
+    "unsupported_web": {
+        "title": "Improved experience on mobile!",
+        "message": "Download our app"
+    },
+    "footer": {
+        "copyright_before_icon": "Created with",
+        "copyright_after_icon": "by Mário Valney"
+    }
+}
